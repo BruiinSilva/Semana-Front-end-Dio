@@ -4,6 +4,9 @@
 
 Projeto feito na Semana
 
+https://bruiinsilva.github.io/Semana-Front-end-Dio/
+
+
 # ▶ Semana-Front-end-Dio
 
 ## 💻 Tecnologias
